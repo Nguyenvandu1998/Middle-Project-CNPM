@@ -43,12 +43,6 @@
 						<i class="fa fa-facebook-official"></i>
 						Facebook
 					</a>
-
-					<a href="https://accounts.google.com/o/oauth2/auth?scope=email&redirect_uri=http://localhost:8080/Project-CNPM/login-google&response_type=code
-		&client_id=319599259958-j1tp1m6u0ld7h6tm55meqj4fnsshk4sj.apps.googleusercontent.com&approval_prompt=force" class="btn-google m-b-20">
-						<img src="images/icons/icon-google.png" alt="GOOGLE">
-						Google
-					</a>
 					
 					<div class="p-t-31 p-b-9">
 						<span class="txt1">
